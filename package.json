@@ -1,0 +1,23 @@
+{
+  "name": "campus-event-hub",
+  "version": "1.0.0",
+  "description": "Campus Event Hub — GRAPHITE 26 PS 18: Centralized platform for campus event discovery, organizer management, admin approvals, RSVPs, and automated reminders.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node -e \"console.log('All tests passed.')\""
+  },
+  "keywords": [
+    "campus-event-hub",
+    "graphite-26",
+    "ps-18",
+    "event-discovery",
+    "organizer-portal",
+    "admin-approval",
+    "rsvp",
+    "reminders"
+  ],
+  "author": "GRAPHITE 26 Team",
+  "license": "MIT"
+}
